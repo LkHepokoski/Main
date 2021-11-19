@@ -7,7 +7,6 @@ __author__ = "Luke Hepokoski"
 
 # Sources used: https://www.hackerrank.com/
 # https://www.w3schools.com/
-#
 # Defines the main function
 def main():
     # Imports the math module for later functions
